@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.image{
+    float:left;
+    background-size:cover;
+    background-position:0dvh ;
+    height: 100vh;
+    width:fit-content;
+
+}
+
+
+.bdy{
+    background-color: rgb(109, 151, 115);
+}
+
+.parent{
+    color:antiquewhite;
+    float:right;
+}
+
+.h1{
+    font-size: 28px;;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+    margin-right: 250px;
+
+}
+
+.part{
+   
+    margin-top: 100px;
+    margin-right: 250px;
+    font-family: sans-serif;
+    font-size: larger;
+}
+
+#id1{
+    margin-top: 110px;
+}
+
